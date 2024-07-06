@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subandhu</h1>
 <h3 align="center">A passionate Cloud enthusiast from India, currently learning Fullstack developement.</h3>
 
-- 🔭 I’m currently working on **Task management System**
+- 🔭 I’m currently working on **Short URL Generator**
 
 - 🌱 I’m currently learning **React.js**
 
